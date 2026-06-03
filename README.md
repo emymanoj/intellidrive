@@ -135,6 +135,6 @@ This project is a **prototype for educational and research purposes**. It should
 
 ---
 
-## 📄 License
+## License
 
 MIT License — feel free to use, modify, and distribute with attribution.
